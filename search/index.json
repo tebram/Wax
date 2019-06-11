@@ -1,0 +1,126 @@
+---
+layout: none
+---
+[
+  {
+    "pid": "rijks_kasukawa_001",
+    "label": "Acteur Ichikawa Ebizo II in een shibaraku rol",
+    "artist": "Katsukawa Shunshō",
+    "_date": "1772",
+    "medium": "paper",
+    "collection": "katsukawa",
+    "thumbnail": "img/derivatives/simple/rijks_kasukawa_001/thumbnail.jpg",
+    "permalink": "/katsukawa/rijks_kasukawa_001",
+    "lunr_id": 0
+  },
+  {
+    "pid": "rijks_kasukawa_002",
+    "label": "Acteur Sawamura Sojuro II klaar om te vechten",
+    "artist": "Katsukawa Shunshō",
+    "_date": "between 1763 and 1767",
+    "medium": "paper",
+    "collection": "katsukawa",
+    "thumbnail": "img/derivatives/simple/rijks_kasukawa_002/thumbnail.jpg",
+    "permalink": "/katsukawa/rijks_kasukawa_002",
+    "lunr_id": 1
+  },
+  {
+    "pid": "rijks_kasukawa_003",
+    "label": "Acteur Yamashita Kinsaku II in de rol van de courtisane Agemaki",
+    "artist": "Katsukawa Shunshō",
+    "_date": "between 1773 and 1777",
+    "medium": "paper",
+    "collection": "katsukawa",
+    "thumbnail": "img/derivatives/simple/rijks_kasukawa_003/thumbnail.jpg",
+    "permalink": "/katsukawa/rijks_kasukawa_003",
+    "lunr_id": 2
+  },
+  {
+    "pid": "rijks_kasukawa_004",
+    "label": "Acteurstriptiek",
+    "artist": "Katsukawa Shunshō",
+    "_date": "circa 1770",
+    "medium": "paper",
+    "collection": "katsukawa",
+    "thumbnail": "img/derivatives/simple/rijks_kasukawa_004/thumbnail.jpg",
+    "permalink": "/katsukawa/rijks_kasukawa_004",
+    "lunr_id": 3
+  },
+  {
+    "pid": "rijks_kasukawa_005",
+    "label": "The Actor Ichikawa Danjuro IV in the Role of the Spirit Ki no Natora",
+    "artist": "Katsukawa Shunshō",
+    "_date": "1765",
+    "medium": "woodcut on paper",
+    "collection": "katsukawa",
+    "thumbnail": "img/derivatives/simple/rijks_kasukawa_005/thumbnail.jpg",
+    "permalink": "/katsukawa/rijks_kasukawa_005",
+    "lunr_id": 4
+  },
+  {
+    "pid": "rijks_kasukawa_006",
+    "label": "The Actor Ichikawa Yaozō with Long Sword",
+    "artist": "Katsukawa Shunshō",
+    "_date": "1771",
+    "medium": "woodcut on paper",
+    "collection": "katsukawa",
+    "thumbnail": "img/derivatives/simple/rijks_kasukawa_006/thumbnail.jpg",
+    "permalink": "/katsukawa/rijks_kasukawa_006",
+    "lunr_id": 5
+  },
+  {
+    "pid": "rijks_kasukawa_007",
+    "label": "The Actor Nakamura Nakazo I Lifting a Column",
+    "artist": "Katsukawa Shunshō",
+    "_date": "Between 1773 and 1777",
+    "medium": "woodcut on paper",
+    "collection": "katsukawa",
+    "thumbnail": "img/derivatives/simple/rijks_kasukawa_007/thumbnail.jpg",
+    "permalink": "/katsukawa/rijks_kasukawa_007",
+    "lunr_id": 6
+  },
+  {
+    "pid": "rijks_kasukawa_008",
+    "label": "Actor in the Role of a Brigand",
+    "artist": "Katsukawa Shunshō",
+    "_date": "Between 1780 and 1790",
+    "medium": "woodcut on paper",
+    "collection": "katsukawa",
+    "thumbnail": "img/derivatives/simple/rijks_kasukawa_008/thumbnail.jpg",
+    "permalink": "/katsukawa/rijks_kasukawa_008",
+    "lunr_id": 7
+  },
+  {
+    "pid": "rijks_kasukawa_009",
+    "label": "Minamoto no Yoritomo en Yuki Onna in de sneeuw.",
+    "artist": "Katsukawa Shunshō",
+    "_date": "1770",
+    "medium": "paper",
+    "collection": "katsukawa",
+    "thumbnail": "img/derivatives/simple/rijks_kasukawa_009/thumbnail.jpg",
+    "permalink": "/katsukawa/rijks_kasukawa_009",
+    "lunr_id": 8
+  },
+  {
+    "pid": "rijks_kasukawa_010",
+    "label": "Twee acteurs",
+    "artist": "Katsukawa Shunshō",
+    "_date": "between 1780 and 1790",
+    "medium": "paper",
+    "collection": "katsukawa",
+    "thumbnail": "img/derivatives/simple/rijks_kasukawa_010/thumbnail.jpg",
+    "permalink": "/katsukawa/rijks_kasukawa_010",
+    "lunr_id": 9
+  },
+  {
+    "pid": "rijks_kasukawa_011",
+    "label": "Vrouw bij rivier",
+    "artist": "Katsukawa Shunshō",
+    "_date": "1766",
+    "medium": "paper",
+    "collection": "katsukawa",
+    "thumbnail": "img/derivatives/simple/rijks_kasukawa_011/thumbnail.jpg",
+    "permalink": "/katsukawa/rijks_kasukawa_011",
+    "lunr_id": 10
+  }
+]
